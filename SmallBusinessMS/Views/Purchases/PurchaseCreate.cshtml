@@ -1,0 +1,225 @@
+﻿@model SmallBussinessMS.Models.Purchase
+
+@{
+    ViewBag.Title = "Purchase Create";
+}
+
+<div class="form-group">
+    @if (ViewBag.SMsg != null)
+    {
+        <div class="col-md-offset-2 col-md-10" style="color: green">
+            @ViewBag.SMsg
+        </div>
+    }
+    @if (ViewBag.FMsg != null)
+    {
+        <div class="col-md-offset-2 col-md-10" style="color: red">
+            @ViewBag.FMsg
+        </div>
+    }
+
+</div>
+@using (Html.BeginForm("PurchaseCreate", "Purchases", FormMethod.Post, new { @id = "signForm", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="row grid-margin">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <p> Purchase</p>
+                </div>
+                <div class="card-body">
+
+                    <fieldset>
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="form-group">
+                                    <label for="Date">Date</label>
+                                    <input id="Date" class="form-control" name="Date" type="datetime" required>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="form-group">
+                                    <label for="InvoiceNo">Invoice No</label>
+                                    <input id="InvoiceNo" class="form-control" name="InvoiceNo" type="text" required>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="form-group">
+                                    <label for="SupplierId">Supplier</label>
+                                    @Html.DropDownList("SupplierId", (SelectList)ViewData["SupplierDropdownList"], "--Select Supplier--", new { @class = "form-control" })
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </fieldset>
+
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <p> Purchase Details</p>
+                </div>
+                <div class="card-body">
+                    <fieldset>
+                        <div class="row">
+                            <div class="row col-5">
+
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="ProductId">Product</label>
+                                        @Html.DropDownList("ProductId", (SelectList)ViewData["ProductDropdownList"], "--Select Product--", new { @class = "form-control", @onchange = "getProductCode()" })
+                                    </div>
+                                </div>
+                                @*<div class="col-12">
+                                        <div class="form-group">
+                                            <label for="AvailableQuantity">Available Quantity</label>
+                                            <input id="AvailableQuantity" class="form-control" type="text" readonly="readonly" />
+                                        </div>
+                                    </div>*@
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="ManufacturedDate">Manufactured Date</label>
+                                        <input id="ManufacturedDate" class="form-control" name="ManufacturedDate" type="datetime">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="ExpireDate">Expire Date</label>
+                                        <input id="ExpireDate" class="form-control" name="ExpireDate" type="datetime" />
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="Quantity">Purchase Quantity</label>
+                                        <input id="Quantity" class="form-control" name="Quantity" type="text" onkeyup="calculatePrice()" />
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="UnitPrice">Unit Price</label>
+                                        <input id="UnitPrice" class="form-control" name="UnitPrice" type="text" onkeyup="calculatePrice()" />
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="TotalPrice">TotalPrice</label>
+                                        <input id="TotalPrice" class="form-control" name="TotalPrice" type="text">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="PreviousCostPrice">Previous Cost Price</label>
+                                        <input id="PreviousCostPrice" class="form-control" name="PreviousCostPrice" type="text" readonly="readonly" />
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="PreviousMRP">Previous MRP</label>
+                                        <input id="PreviousMRP" class="form-control" name="PreviousMRP" type="text" readonly="readonly" />
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="NewCostPrice">New Cost Price</label>
+                                        <input id="NewCostPrice" class="form-control" name="NewCostPrice" type="text" readonly="readonly" />
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="NewMRP">New MRP</label>
+                                        <input id="NewMRP" class="form-control" name="NewMRP" type="text">
+                                    </div>
+                                </div>
+
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <button class="btn btn-sm btn-primary" type="button" id="addPurchaseDtls">Add</button>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                    </fieldset>
+
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <p> Purchase Details Item</p>
+                </div>
+                <div class="card-body">
+                    <fieldset>
+                        <div class="row">
+                            <div class="col-12">
+                                <table class="table table-bordered table-hover table-striped table-responsive">
+                                    <thead>
+                                        <tr style="background-color: green; color: white; font-weight: bold">
+                                            <td>Sl</td>
+                                            <td>Products(Id)</td>
+                                            <td>Manufactured Date</td>
+                                            <td>Expire Date</td>
+                                            <td>Purchase Quantity</td>
+                                            <td>Unit Price</td>
+                                            <td>Total Price</td>
+                                            @*<td>Previous Cost</td>
+                                                <td>Previous MRP</td>*@
+                                            <td>New Cost</td>
+                                            <td>New MRP</td>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="PurchaseDetailsTable">
+
+                                        @if (Model != null && Model.PurchaseDetailses != null && Model.PurchaseDetailses.Count > 0)
+                                        {
+                                            var sl = 0;
+                                            foreach (var item in Model.PurchaseDetailses)
+                                            {
+                                                <tr>
+                                                    <td>@(++sl)</td>
+                                                    <td>@item.ProductId</td>
+                                                    <td>@item.ManufacturedDate</td>
+                                                    <td>@item.ExpireDate</td>
+                                                    <td>@item.Quantity</td>
+                                                    <td>@item.UnitPrice</td>
+                                                    <td>@item.TotalPrice</td>
+                                                    <td>@item.NewCostPrice</td>
+                                                    <td>@item.NewMRP</td>
+                                                </tr>
+                                            }
+                                        }
+                                    </tbody>
+
+                                </table>
+                            </div>
+
+                        </div>
+
+
+                    </fieldset>
+
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group">
+                    @*<button class="btn btn-sm btn-primary" type="submit" id="submit">Save</button>*@
+                    <input type="submit" class="btn btn-success" value="Save" />
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts
+{
+    <!-- Custom js for this page-->
+    <script src="~/Content/js/form-validation.js"></script>
+    <script src="~/Content/js/bt-maxLength.js"></script>
+    <!-- End custom js for this page-->
+    <script src="~/Scripts/Purchase/PurchaseCreate.js"></script>
+}

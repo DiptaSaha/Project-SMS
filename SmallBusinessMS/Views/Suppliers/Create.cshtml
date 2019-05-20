@@ -1,0 +1,75 @@
+﻿@model SmallBussinessMS.Models.Supplier
+
+@using (Html.BeginForm("Create", "Suppliers", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <div class="panel-group">
+            <div class="panel panel-success">
+                <div class="panel-heading">
+                    <div class="panel-title">Supplier</div>
+                </div>
+                <div class="panel-body">
+
+                    <div class="form-group row">
+                        @Html.LabelFor(c => c.Code, "Code *", new { @class = "control-label col-md-4" })
+                        <div class="col-md-4">
+                            @Html.TextBoxFor(c => c.Code, null, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        @Html.LabelFor(c => c.Name, "Supplier Name *", new { @class = "control-label col-md-4" })
+                        <div class="col-md-4">
+                            @Html.TextBoxFor(c => c.Name, null, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        @Html.LabelFor(c => c.Address, "Supplier Address *", new { @class = "control-label col-md-4" })
+                        <div class="col-md-4">
+                            @Html.TextBoxFor(c => c.Address, null, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        @Html.LabelFor(c => c.Email, "Supplier Email *", new { @class = "control-label col-md-4" })
+                        <div class="col-md-4">
+                            @Html.TextBoxFor(c => c.Email, null, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        @Html.LabelFor(c => c.Contact, "Supplier Contact *", new { @class = "control-label col-md-4" })
+                        <div class="col-md-4">
+                            @Html.TextBoxFor(c => c.Contact, null, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        @Html.LabelFor(c => c.ContactPerson, "Contact Person *", new { @class = "control-label col-md-4" })
+                        <div class="col-md-4">
+                            @Html.TextBoxFor(c => c.ContactPerson, null, new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label>Supplier File</label>
+                        <div class="col-md-4">
+                            <input type="file" name="UploadFiles" class="btn btn-primary" multiple /><br />
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="col-md-4 col-md-offset-4">
+                        <input type="submit" class="btn btn-success" value="Save" />
+                    </div>
+                    <div class="col-md-4 col-md-offset-4">
+                        <button class="btn btn-success">@Html.ActionLink("Show Suppliers", "ShowSuppliers")</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+}

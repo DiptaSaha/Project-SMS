@@ -1,0 +1,220 @@
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.dll.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.exe
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.exe.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.rsp
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csi.exe
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csi.rsp
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.AppContext.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.exe
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.exe.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.rsp
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Antlr3.Runtime.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Newtonsoft.Json.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Helpers.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Mvc.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Optimization.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Razor.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\WebGrease.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Helpers.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Mvc.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Optimization.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Razor.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Newtonsoft.Json.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Antlr3.Runtime.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.csproj.CopyComplete
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.BLL.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.BLL.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.dll.config
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.dll.config
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.pdb
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.exe
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.exe.config
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.rsp
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csi.exe
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csi.rsp
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.AppContext.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Collections.Immutable.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.IO.FileSystem.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Reflection.Metadata.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.exe
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.exe.config
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.rsp
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\VBCSCompiler.exe
+G:\SmallBusinessMS\SmallBusinessMS\bin\roslyn\VBCSCompiler.exe.config
+G:\SmallBusinessMS\SmallBusinessMS\bin\Antlr3.Runtime.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.SqlServer.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.Web.Infrastructure.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\Newtonsoft.Json.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.BLL.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Diagnostics.DiagnosticSource.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Helpers.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Mvc.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Optimization.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Razor.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Deployment.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Razor.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\WebGrease.dll
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.BLL.pdb
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.pdb
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.pdb
+G:\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.pdb
+G:\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.SqlServer.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Helpers.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Mvc.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Optimization.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Razor.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Deployment.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Razor.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\Newtonsoft.Json.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\Antlr3.Runtime.pdb
+G:\SmallBusinessMS\SmallBusinessMS\bin\System.Diagnostics.DiagnosticSource.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.csprojResolveAssemblyReference.cache
+G:\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.dll
+G:\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBusinessMS.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.exe
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.exe.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csc.rsp
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csi.exe
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\csi.rsp
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.AppContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.exe
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.exe.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\vbc.rsp
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Antlr3.Runtime.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Newtonsoft.Json.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.BLL.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Helpers.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Mvc.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Optimization.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Razor.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\WebGrease.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.BLL.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\SmallBussinessMS.Repository.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Helpers.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Mvc.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Optimization.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.Razor.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Newtonsoft.Json.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Antlr3.Runtime.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.csproj.CopyComplete
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBusinessMS\obj\Debug\SmallBusinessMS.pdb

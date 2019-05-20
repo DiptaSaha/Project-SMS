@@ -1,0 +1,129 @@
+﻿@model List<SmallBussinessMS.Models.Category>
+
+@{
+    ViewBag.Title = "Category Create";
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<h2>Create Category</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="panel-group">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <div class="panel-title">Category Details</div>
+            </div>
+            <div class="panel-body">
+
+                <div class="form-group row">
+                    @Html.Label("Code", "Category Code *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("Code", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                @*<div class="form-group row">
+                    <label></label>
+                    <div class="col-md-4">
+                        <p id="Status" />
+                    </div>
+                </div>*@
+
+                <div class="form-group row">
+                    @Html.Label("Name", "Category Name *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("CategoryName", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="col-md-4 pull-right col-md-offset-4">
+                    <input type="submit" class="btn btn-success" value="Save" />
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+}
+
+
+
+@if (ViewBag.SMsg != null)
+{
+    <p style="color: green; font-weight: bolder">@(ViewBag.SMsg)</p>
+}
+
+else if (ViewBag.FMsg != null)
+{
+    <p style="color: red; font-weight: bolder">@(ViewBag.FMsg)</p>
+}
+else if (ViewBag.DMsg != null)
+{
+    <p style="color: red; font-weight: bolder">@(ViewBag.DMsg)</p>
+}
+
+@section Scripts
+    {
+    @*<script>
+            function CodeCheck() {
+                $("#Status").html("Checking...");
+                $.post("@Url.Action("CheckCode","Category")",
+                    {
+                        userdata: $("#Code").val()
+                    },
+                    function (data) {
+                        if (data == 0) {
+                            $("#Status").html('<font color="Green">This Code can be Taken.</font>');
+                            $("#Code").css("border-color", "Green");
+                        }
+                        else {
+                            $("#Status").html('<font color="Red">This Code is Exist.</font>');
+                            $("#Code").css("border-color", "Red");
+                        }
+                    });
+            }
+    </script>*@
+
+
+    <script src="~/Scripts/Category/CategoryAdd.js"></script>
+}
+
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+
+        <h2>Category List</h2>
+        <table class="table table-bordered table-striped table-responsive">
+
+            <tr>
+                <th>Sl</th>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Action</th>
+            </tr>
+            @{ int i = 1; }
+
+            @foreach (var data in Model)
+            {
+                <tr>
+                    <td>
+                        <label>@i</label>
+                        @{ i++; }
+                    </td>
+                    <td>@data.Code</td>
+                    <td>@data.CategoryName</td>
+                    <td>
+                        @Html.ActionLink("Update", "Update", "Category", new { id = data.Id }, null)
+                        @Html.ActionLink("Delete", "Delete", "Category", new { id = data.Id }, null)
+                    </td>
+                </tr>
+            }
+        </table>
+
+
+
+
+    </div>
+</div>

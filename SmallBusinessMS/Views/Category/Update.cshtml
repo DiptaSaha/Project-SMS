@@ -1,0 +1,34 @@
+﻿@model SmallBussinessMS.Models.Category
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="panel-group">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <div class="panel-title">Category Update</div>
+            </div>
+            <div class="panel-body">
+                <div class="form-group row">
+                    @Html.Label("Code", "Category Code *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("Code", null, new { @class = "form-control" })
+                    </div>
+                </div>
+              
+                <div class="form-group row">
+                    @Html.Label("CategoryName", "Category Name *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("CategoryName", null, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-md-4 pull-right col-md-offset-4">
+                    <input type="submit" class="btn btn-success" value="Update" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+}

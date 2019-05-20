@@ -1,0 +1,71 @@
+﻿@model IEnumerable<SmallBussinessMS.Models.Customer>
+
+@{
+    ViewBag.Title = "ShowCustomers";
+}
+
+<h2>ShowCustomers</h2>
+@using (Html.BeginForm("ShowCustomers", "Customers", FormMethod.Get))
+{
+    @Html.TextBox("search")<input type="submit" value="Search" />
+    
+}
+                           <div class="row">
+                               <div class="col-md-8 col-md-offset-2">
+
+                                   <h2>Product List</h2>
+
+
+                                   <table class="table table-bordered table-striped table-responsive">
+
+                                       <tr>
+                                           <th>Sl</th>
+                                           <th>Code</th>
+                                           <th>Name</th>
+                                           <th>Address</th>
+                                           <th>Email</th>
+                                           <th>Contact</th>
+                                           <th>Loyality Point</th>
+                                           <th>Image</th>
+                                           <th>Action</th>
+                                       </tr>
+                                       @{ int i = 1; }
+
+                                       @foreach (var data in Model)
+                                       {
+                                           <tr>
+                                               <td>
+                                                   <label>@i</label>
+                                                   @{ i++; }
+                                               </td>
+                                               <td>@data.Code</td>
+                                               <td>@data.Name</td>
+                                               <td>@data.Address</td>
+                                               <td>@data.Email</td>
+                                               <td>@data.Contact</td>
+                                               <td>@data.LoyalityPoint</td>
+
+                                               <td>
+                                                   @{
+                                                       foreach (var customerFile in data.CustomerFiles)
+                                                       {
+                                                           var file = Convert.ToBase64String(customerFile.File);
+                                                           var image = string.Format("data:image/gif;base64,{0}", file);
+                                                           <img src="@image" width="100" height="100" />
+                                                       }
+                                                   }
+                                               </td>
+
+                                               <td>
+                                                   @Html.ActionLink("Edit", "Update", "Customers", new { id = data.Id }, null)
+                                               </td>
+                                           </tr>
+                                       }
+                                   </table>
+
+
+
+
+                               </div>
+                           </div>
+

@@ -1,0 +1,69 @@
+﻿@model SmallBussinessMS.Models.Supplier
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="panel-group">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <div class="panel-title">Supplier Update</div>
+            </div>
+            <div class="panel-body">
+                <div class="form-group row">
+                    @Html.Label("Code", "Supplier Code *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("Code", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    @Html.Label("Name", "Supplier Name *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("Name", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    @Html.Label("Address", "Supplier Address *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("Address", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    @Html.Label("Email", "Supplier Email *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("Email", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    @Html.Label("Contact", "Supplier Contact *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("Contact", null, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    @Html.Label("ContactPerson", "Contact Person *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        @Html.TextBox("ContactPerson", null, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group row">
+                    @Html.Label("UploadFiles", "UploadFiles *", new { @class = "control-label col-md-4" })
+                    <div class="col-md-4">
+                        <input type="file" name="UploadFiles" class="btn btn-primary" multiple /><br />
+                    </div>
+                </div>
+
+                <div class="col-md-4 pull-right col-md-offset-4">
+                    <input type="submit" class="btn btn-success" value="Update" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+}

@@ -1,0 +1,136 @@
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\source\repos\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojResolveAssemblyReference.cache
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+G:\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Customer_and_Category.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Suppliers.resources
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojResolveAssemblyReference.cache
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Customer_and_Category.resources
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Suppliers.resources
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.GenerateResource.Cache
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+G:\SmallBusinessMS.12.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Customer_and_Category.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Suppliers.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Product.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.13.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.CategoryName.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Customer_and_Category.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Suppliers.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Product.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.CategoryName.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Purchase.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.16.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Purchase_DateTime.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Purchase.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.21.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\SmallBussinessMS.Models.dll.config
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.CopyComplete
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.dll
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.pdb
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.Migrations.Purchase.resources
+C:\Users\Amjadul Islam\Desktop\SmallBusinessMS.22.04.19\SmallBussinessMS.DatabaseContext\obj\Debug\SmallBussinessMS.DatabaseContext.csproj.GenerateResource.cache
